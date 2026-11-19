@@ -1,0 +1,43 @@
+body {
+    background-color: #faf3e8;
+    color: #5B3525;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #5B3525;
+    text-align: center;
+    font-family: Georgia;
+}
+
+h2 {
+    color:#A84432;
+    font-family: Georgia;
+}
+
+p {
+    color: #A84432;
+    font-family: Arial;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+ul {
+    color: #526B45;
+    padding: 16px;
+}
+
+ol {
+    color: #A84432;
+    padding: 16px;
+}
+
+a {
+    color: #A84432;
+    display: inline-block;
+    width: 120px;
+}
+
+img {
+    width: 400px;
+}
